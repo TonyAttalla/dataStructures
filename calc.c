@@ -1,8 +1,6 @@
 /*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 |   Name:               Robert Kety
-|   Course:             CS 261 - 400, Ehsan
-|   Assignment:         Homework 2 - Part 3
-|   Date:               January 24, 2014
+|   Modified:           06/23/2014
 |   Description:        Reverse Polish Number calculator which receives
 |                       arguments via command line interface and returns the
 |                       result to the screen.  Operations supported include:

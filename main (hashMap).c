@@ -1,7 +1,5 @@
 /*  Robert Kety
-    CS261 - 400 - Ehsan
-    3/4/2014
-    Homework #6
+    Modified: 06/23/2014
     
     Description: Implement input file loading and concordance for this hash map
                  test function. */

@@ -1,8 +1,6 @@
 /*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 |   Name:               Robert Kety
-|   Course:             CS 261 - 400, Ehsan
-|   Assignment:         Homework 2 - Part 1
-|   Date:               January 24, 2014
+|   Modified:           06/23/2014
 |   Description:        Create function implementations of stack and bag 
 |                       structures using existing Dynamic Array code provided 
 |                       by instructor.

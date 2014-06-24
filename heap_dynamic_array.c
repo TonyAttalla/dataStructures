@@ -1,7 +1,6 @@
 /*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-|   Course:             CS 261 - 400, Ehsan
-|   Assignment:         Worksheet 33
-|   Date:               February 17, 2014
+|   Author:   Robert Kety
+|   Modified: 06/23/2014
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
 
 /*	dynamicArray.c: Dynamic Array implementation. */

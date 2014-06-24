@@ -1,8 +1,6 @@
 /**********************************************************
  * Title:         Tests for Worksheets 22, 23, 24, and 26.
- * Course:        CS261 - 400, Ehsan
- * Group:         Group 15
- * Date:          January 26, 2014
+ * Modified:      06/23/2014
  * Description:   Run this executable to test worksheet implementations.
  **********************************************************/
 

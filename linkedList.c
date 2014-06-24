@@ -1,7 +1,5 @@
 /*  Name:       Robert Kety
-    Course:     CS-261-400 Ehsan
-    Date:       January 30, 2014
-    Assignment: Programming Assignment #3
+    Modified:   06/23/2014
 */
 
 #include "linkedList.h"

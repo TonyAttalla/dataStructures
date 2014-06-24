@@ -1,7 +1,5 @@
 /*  Robert Kety
-    CS261 - 400 - Ehsan
-    3/4/2014
-    Homework #6
+    Modified: 06/23/2014
     
     Description: Implement a function that will load a dictionary into a hash map and
                  implement code to prompt users for words.  The words will be tested

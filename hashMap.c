@@ -1,7 +1,5 @@
 /*  Robert Kety
-    CS261 - 400 - Ehsan
-    3/4/2014
-    Homework #6
+    Modified: 06/23/2014
     
     Description: Create a hash map based on provided skeleton code and videos from weeks 8 and 9. */
 
@@ -191,8 +189,8 @@ void insertMap (struct hashMap * ht, KeyType k, ValueType v){
 }
 
 /*
- NOTE: The return value for this function has changed by permission of Samina Ehsan @380
- this returns the value (which is NOT void*) stored in a hashLink specified by the key k.
+ NOTE: The return value for this function has changed. 
+ This returns the value (which is NOT void*) stored in a hashLink specified by the key k.
  
  if the user supplies the key "taco" you should find taco in the hashTable, then
  return the value member of the hashLink that represents taco.
