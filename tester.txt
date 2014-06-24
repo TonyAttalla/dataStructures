@@ -1,0 +1,12 @@
+0	take a nap
+0	take a nap
+1	study heap-based priority queue
+1	study heap-based priority queue
+0	take a nap
+3	do assignment 5
+101	review trees for Final Exam
+1	study heap-based priority queue
+3	do assignment 5
+101	review trees for Final Exam
+3	do assignment 5
+101	review trees for Final Exam
